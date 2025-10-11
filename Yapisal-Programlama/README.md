@@ -1,16 +1,16 @@
 # Yapısal Programlama Dersi Final Notları
 
-Bu repo, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 1. dönem dersi olan **Yapısal Programlama** dersi için hazırlanmış **final notlarını** içermektedir.
-
-🗂️ **Format:** Türkçe PDF  
-🧠 **Hazırlayan:** Mertcan Gündoğan  
+Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 1. dönem dersi olan **Yapısal Programlama** dersi için hazırlanmış **final notlarını** içermektedir.
 
 ---
 
-> Bu notlar, ders tekrarında ve sınav hazırlığında yardımcı kaynak olarak kullanılabilir.  
-> İçinde küçük hatalar olması muhtemeldir. Sınava hazırlanırken yaptığım ve daha sonra kontrol etmedim.
+### 📚 İçerik
+- İlk PDF vize sonrası konuların çoğunu tek başına barındırır.
+- 2 ve 3. PDF, 1'den sonraki konuları barındırır.
+- Çalışırken hepsine bakmak tavsiyemdir.
 
 ---
 
 ### 📎 Lisans
 Bu çalışma **kişisel eğitim amaçlıdır** ve ticari kullanıma açık değildir.
+
