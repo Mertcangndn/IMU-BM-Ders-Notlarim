@@ -16,3 +16,8 @@
 - Notları sınava çalışırken hazırldığım için gözden kaçan **eksiklikler ve yanlışlıklar** olabilir. Geçtiğim dersin notunu düzeltmeye pek niyetim yok .d
 - O an çalıştığım sınav neyi gerektiriyorsa ona göre not çıkarttığım için eksik konular vardır.
 - **İyi Çalışmalar**
+
+---
+
+🗂️ **Format:** Türkçe PDF  
+🧠 **Hazırlayan:** Mertcan Gündoğan  
