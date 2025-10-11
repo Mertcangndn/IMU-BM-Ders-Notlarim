@@ -1,6 +1,7 @@
 # Yapısal Programlama Dersi Final Notları
 
 Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 1. dönem dersi olan **Yapısal Programlama** dersi için hazırlanmış **final notlarını** içermektedir.
+
 Dersi AA ile vermiştim ;)
 
 ---
@@ -14,5 +15,6 @@ Dersi AA ile vermiştim ;)
 
 ### 📎 Lisans
 Bu çalışma **kişisel eğitim amaçlıdır** ve ticari kullanıma açık değildir.
+
 
 
