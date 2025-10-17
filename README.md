@@ -5,9 +5,9 @@
 
 📚 **İçerik Örneği:**
 - `Yapısal Programlama`
- - C Dili Final Sınavı Notları
+  - C Dili Final Sınavı Notları
 - `Veri Yapıları ve Algoritmalar`
- - Zaman ve Bellek Karmaşıklığı
+  - Zaman ve Bellek Karmaşıklığı
 
 ---
 
