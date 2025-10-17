@@ -4,7 +4,8 @@
 - Notlar, ders adlarına göre klasörlenmiştir.
 
 📚 **İçerik Örneği:**
-- `Yapısal Programlama` → C Dili Final Sınavı Notları
+- `Yapısal Programlama`
+-   C Dili Final Sınavı Notları
 
 ---
 
