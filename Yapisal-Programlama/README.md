@@ -14,5 +14,6 @@ Dersi AA ile vermiştim ;)
 ---
 
 ### 📎 Lisans
-Bu çalışma **kişisel eğitim amaçlıdır** ve ticari kullanıma açık değildir.  
+⚠️ Bu çalışma **kişisel eğitim amaçlıdır** ve ticari kullanıma açık değildir.  
 ✍️ **Hazırlayan:** Mertcan Gündoğan
+
