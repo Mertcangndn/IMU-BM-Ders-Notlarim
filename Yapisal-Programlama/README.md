@@ -6,7 +6,7 @@ Dersi AA ile vermiştim ;)
 
 ---
 
-### 📚 İçerik
+### ℹ️ İçerik Hakkında;
 - İlk PDF vize sonrası konuların çoğunu tek başına barındırır.
 - 2 ve 3. PDF, 1'den sonraki konuları barındırır.
 - Çalışırken hepsine bakmak tavsiyemdir.
@@ -16,5 +16,6 @@ Dersi AA ile vermiştim ;)
 ### 📎 Lisans
 ❗ Bu çalışma **kişisel eğitim amaçlıdır** ve ticari kullanıma açık değildir.  
 ✍️ **Hazırlayan:** Mertcan Gündoğan
+
 
 
