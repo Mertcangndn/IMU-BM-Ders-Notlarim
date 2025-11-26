@@ -6,8 +6,18 @@
 📚 **İçerik:**
 - `Yapısal Programlama`
   - C Dili Final Sınavı Notları
+- `Bilgisayar Mühendisliğine Giriş`
+  - Dokümantasyon
+  - HTML
+  - Sunucu ve Alıcı Arasındaki Data Transferi
+  - SQL
+  - Internet
+  - Security-1
+  - Security-2
 - `Veri Yapıları ve Algoritmalar`
   - Zaman ve Bellek Karmaşıklığı
+
+
 
 ---
 
