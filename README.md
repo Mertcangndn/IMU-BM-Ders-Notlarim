@@ -3,7 +3,7 @@
 - Bu repo, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** bölümü dersleri için hazırladığım **kişisel notları** içerir.  
 - Notlar, ders adlarına göre klasörlenmiştir.
 
-📚 **İçerik Örneği:**
+📚 **İçerik:**
 - `Yapısal Programlama`
   - C Dili Final Sınavı Notları
 - `Veri Yapıları ve Algoritmalar`
