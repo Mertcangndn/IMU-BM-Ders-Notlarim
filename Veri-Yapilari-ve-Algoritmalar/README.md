@@ -4,7 +4,7 @@ Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 3. d
 
 ---
 
-### 📚 İçerik
+### ℹ️ İçerik Hakkında;
 - İlk PDF (Serpil Üstebay'ın slaytlarına göre) 1. ve 2. hafta konularını içerir.
 
 ---
@@ -14,6 +14,7 @@ Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 3. d
 ✍️**Hazırlayan:** Mertcan Gündoğan  
 🐸Notlar **Harold** tarafından korunmaktadır.  
 <img src="https://preview.redd.it/q9i15pn180x41.jpg?width=1080&crop=smart&auto=webp&s=4b465ff866d16b1f0354cfb68dc137ba2fe148af" alt="Chunk Frog" width="500"/>
+
 
 
 
