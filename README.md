@@ -27,7 +27,7 @@
 - Bu notlar **kişisel eğitim amaçlıdır** ve ticari kullanım izni **yoktur**.
 - Notlar Türkçe-İngilizce karışık hazırlanmıştır.
 - Her ders klasörü içinde ilgili kaynaklar, özetler ve sınav notları bulunabilir.
-- Notları sınava çalışırken hazırldığım için gözden kaçan **eksiklikler ve yanlışlıklar** olabilir. Geçtiğim dersin notunu düzeltmeye pek niyetim yok .d
+- Notları sınava çalışırken hazırladığım için gözden kaçan **eksiklikler ve yanlışlıklar** olabilir. Geçtiğim dersin notunu düzeltmeye pek niyetim yok .d
 - O an çalıştığım sınav neyi gerektiriyorsa ona göre not çıkarttığım için eksik konular vardır.
 - **İyi Çalışmalar**
 
