@@ -30,6 +30,8 @@
   - 7-Hipotez Testleri
   - 8-Çift Kitle için Hipotez Testleri
   - 9-Korelasyon & Regresyon
+- `Elektronik Devreler 1`
+  - Vize ve Final Notları
 
 ---
 
