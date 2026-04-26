@@ -6,6 +6,10 @@ Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 3. d
 
 ### ℹ️ İçerik Hakkında;
 - İlk PDF (Serpil Üstebay'ın slaytlarına göre) 1. ve 2. hafta konularını içerir.
+- İkinci PDF List node'ların yazımında pointer'lerin kullanılmasına yoğunlaşır. Genel mantığı **içermez.**
+- Üçüncü PDF, son gece önemli bulduğum yerlerle alakalı çıkarttığım hatırlatma notlarını içerir.
+- Dördüncü PDF, graf'ların C dilindeki yazımından, genel mantığından ve gezinme algoritmalarından oluşur. Eğer daha önceden altyapınız yoksa direkt bir öğrenme kaynağı olarak **tavsiye etmiyorum.**
+- Beşinci PDF, aralarında en uzun ve detaylısıdır. Graflar ağırlıklı olmakla beraber çoğu final konusunu *(en azından kendi dönemim için)* kapsar. Yine de ana teması sınavdan önceki gece konular hakkında not çıkartmak üzerinedir.
 
 ---
 
