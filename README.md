@@ -16,9 +16,10 @@
   - Security-2
 - `Veri Yapıları ve Algoritmalar`
   - Zaman ve Bellek Karmaşıklığı
-  - (Devamı sonra eklenecek...)
-
-
+  - List Node
+  - Vize Notları
+  - Graflar
+  - Final Notları
 
 ---
 
