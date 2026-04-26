@@ -22,10 +22,3 @@ Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** 3. d
 ✍️**Hazırlayan:** Mertcan Gündoğan  
 🐸Notlar **Spud** tarafından korunmaktadır.  
 <img src="https://cdn.wcs.org/2024/03/13/21/14/05/2d2c6f1b-71c4-4390-b7e2-deb21a0bc11f/shutterstock_2331893385.jpg" alt="Chunk Frog" width="500"/>
-
-
-
-
-
-
-
