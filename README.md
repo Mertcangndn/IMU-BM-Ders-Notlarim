@@ -20,6 +20,16 @@
   - Vize Notları
   - Graflar
   - Final Notları
+- `Olasılık ve İstatistik`
+  - 1-İstatistiğe Giriş
+  - 2-Verilerin Sınıflandırılması ve Analizi
+  - 3-Tablo ve Grafikler
+  - 4-Olasılık
+  - 5-Dağılımlar
+  - 6-Örnekleme
+  - 7-Hipotez Testleri
+  - 8-Çift Kitle için Hipotez Testleri
+  - 9-Korelasyon & Regresyon
 
 ---
 
