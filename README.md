@@ -1,4 +1,4 @@
-# Üniversite Ders Notları
+# İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği Ders Notları
 
 - Bu repo, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** bölümü dersleri için hazırladığım **kişisel notları** içerir.  
 - Notlar, ders adlarına göre klasörlenmiştir.
