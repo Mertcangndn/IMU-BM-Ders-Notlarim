@@ -26,4 +26,4 @@ Bu klasör, **İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği** müf
 ✍️**Hazırlayan:** Mertcan Gündoğan  
 🐸Notlar **Philip** tarafından korunmaktadır.
 
-<img src="https://scontent.fsaw2-1.fna.fbcdn.net/v/t1.6435-9/124592960_3882740928426101_1625236779452778372_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=0327a3&_nc_ohc=ED9nIeHKBoYQ7kNvwFfqUMn&_nc_oc=AdoEVAGhKxdfnbTcOO5v6LFfeMMjB2A7dEJUBxNhrcaW39ecw3f4O1MWpEezvqeyEHg&_nc_zt=23&_nc_ht=scontent.fsaw2-1.fna&_nc_gid=CHKKUFf9KEoqUNnhRw4oNg&_nc_ss=7a289&oh=00_Af3eLi081VwbKL1kqqmmlctkM_EuuwC_fnzkCuWgxhhrXw&oe=6A159D48" alt="Philip" width="500"/>
+<img src="https://togetherband.org/blogs/news/frog-facts?srsltid=AU7gw4WsO6XYE-LBh4ukebWgYoeGitlF9_Qw_c7n1Q_V_vp4_K4uvsH3" alt="Philip" width="500"/>
