@@ -48,6 +48,10 @@
   - Dosya Sistemleri
   - Güvenliğe Giriş
   - Koruma ve Güvenlik
+- `Algoritma Analizi`
+  - Vize Konuları
+  - Greedy Yaklaşımı
+  - Graf Algoritmaları ve Trace
 
 ---
 
