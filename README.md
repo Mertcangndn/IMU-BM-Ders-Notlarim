@@ -32,6 +32,22 @@
   - 9-Korelasyon & Regresyon
 - `Elektronik Devreler 1`
   - Vize ve Final Notları
+- `İşletim Sistemleri`
+  - Giriş-1
+  - Giriş-2
+  - Hizmetler ve Yapılar
+  - Süreçler
+  - Çoklu İş Parçacığı Programlama
+  - İşlemci Çizelgeleme
+  - Senkronizasyona Giriş
+  - Senkronizasyon II
+  - Sanal Bellek: Donanım
+  - Sanal Bellek: İşletim Sistemi
+  - Giriş/Çıkış Sistemleri
+  - Disk Giriş/Çıkış
+  - Dosya Sistemleri
+  - Güvenliğe Giriş
+  - Koruma ve Güvenlik
 
 ---
 
